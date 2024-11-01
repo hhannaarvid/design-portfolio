@@ -1,25 +1,25 @@
-* {
+/* * {
     box-sizing: border-box;
     border: 0 none;
     margin: 0;
     padding: 0;
-}
+} */
 
-ol, ul {
+/* ol, ul {
     padding-left: 1.5em;
-}
+} */
 
-.hidden {
+/* .hidden {
     display: none !important;
-}
+} */
 
-html, body {
+/* html, body {
     height: 100%;
-}
+} */
 
 /* Placement */
 
-body {
+/* body {
     display: flex;
     flex-direction: column;
 }
@@ -29,15 +29,15 @@ body {
     width: 60%;
     margin-bottom: 100px;
     padding: 30px;
-}
+} */
 
-.header, .footer {
+/* .header, .footer {
     flex: 0 0 auto;
-}
+} */
 
 /* Header */
 
-.header, .site-header {
+/* .header, .site-header {
     display: flex;
     justify-content: space-between;
 }
@@ -58,11 +58,11 @@ body {
 
 .header a:hover {
     color: #111;
-}
+} */
 
 /* Title */
 
-.title, .logo {
+/* .title, .logo {
     padding: 3em 3em 3em 0;
 }
 
@@ -88,11 +88,11 @@ body {
 
 .title p {
     font-style: italic;
-}
+} */
 
 /* Footer */
 
-.footer {
+/* .footer {
     display: flex;
     justify-content: space-between;
     padding: 10px 50px 10px 50px;
@@ -110,11 +110,11 @@ body {
 
 .footer .social {
     font-size: 2rem;
-}
+} */
 
 /* Typografy */
 
-body {
+/* body {
     font-family: sans-serif;
     line-height: 1.5rem;
     color: #444;
@@ -129,11 +129,11 @@ p, td, th, li, dd {
 h1, h2, h3, h4, h5, h6 {
     margin-bottom: 0.6em;
     font-weight: bold;
-}
+} */
 
-img {
+/* img {
     max-width: 100%;
-}
+} */
 
 /* BELOW ARE PREPARED STYLES FOR CODE/PRE/BLOCKQUOTE, FEEL FREE TO REMOVE IT  */
 

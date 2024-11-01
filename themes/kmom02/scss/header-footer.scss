@@ -1,0 +1,46 @@
+.header, .footer {
+    flex: 0 0 auto;
+}
+
+.header, .site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    padding: 0 30px 0 30px;
+    background-color: rgb(76, 134, 170);
+}
+
+.header img {
+    border: 4px double white;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+}
+
+.header a:hover {
+    color: #111;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px 10px 50px;
+    background-color: rgb(76, 134, 170);
+    color: white;
+}
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover {
+    color: black;
+}
+
+.footer .social {
+    font-size: 2rem;
+}
