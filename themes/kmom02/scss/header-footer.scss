@@ -17,12 +17,13 @@
     border: 4px double white;
     }
 
-    .header a {
+    a {
         text-decoration: none;
         color: white;
+        font-weight: bold;
     }
 
-    .header a:hover {
+    a:hover {
         color: #111;
 }
 }
