@@ -6444,6 +6444,7 @@ body {
 }
 
 .main {
+  flex: 1 0 auto;
   width: 60%;
   margin-bottom: 100px;
   padding: 30px;
