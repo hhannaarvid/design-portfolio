@@ -12,35 +12,36 @@
     background-color: rgb(76, 134, 170);
 }
 
-.header img {
+.header {
+    img { 
     border: 4px double white;
-}
+    }
 
-.header a {
-    text-decoration: none;
-    color: white;
-}
+    .header a {
+        text-decoration: none;
+        color: white;
+    }
 
-.header a:hover {
-    color: #111;
+    .header a:hover {
+        color: #111;
 }
-
+}
 .footer {
     display: flex;
     justify-content: space-between;
     padding: 10px 50px 10px 50px;
     background-color: rgb(76, 134, 170);
     color: white;
-}
+    
 
-.footer a {
-    color: white;
-}
+    a {
+        color: white;
+    }
 
-.footer a:hover {
-    color: black;
+    a:hover {
+        color: black;
+    }
 }
-
 .footer .social {
     font-size: 2rem;
 }

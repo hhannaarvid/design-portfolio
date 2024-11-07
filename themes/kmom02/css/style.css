@@ -6510,13 +6510,11 @@ pre code {
 .header img {
   border: 4px double white;
 }
-
-.header a {
+.header .header a {
   text-decoration: none;
   color: white;
 }
-
-.header a:hover {
+.header .header a:hover {
   color: #111;
 }
 
@@ -6527,11 +6525,9 @@ pre code {
   background-color: rgb(76, 134, 170);
   color: white;
 }
-
 .footer a {
   color: white;
 }
-
 .footer a:hover {
   color: black;
 }
@@ -6566,8 +6562,7 @@ i {
 .title * {
   color: white;
 }
-
-.title p {
+.title .title p {
   font-style: italic;
 }
 

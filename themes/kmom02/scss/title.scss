@@ -18,10 +18,12 @@
     }
 }
 
-.title * {
-    color: white;
-}
+.title {
+    * {
+        color: white;
+    }
 
-.title p {
-    font-style: italic;
+    .title p {
+        font-style: italic;
+    }
 }
