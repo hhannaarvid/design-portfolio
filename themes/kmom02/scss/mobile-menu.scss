@@ -25,25 +25,34 @@
     display: none;
 }
 
+@media (max-width: 900px) {
+    .main {
+        width: 100%;
+    }
+}
+
+
 @media (max-width: 767px) {
     .header {
         flex-direction: column;
     }
-    // nesting?????
-    .nav ul {
-        flex-direction: column;
-        padding-bottom: 1em;
-    }
+    .nav {
 
-    .nav ul li {
-        display: flex;
-        flex-direction: column;
-        text-align: center;
-    }
+        ul {
+            flex-direction: column;
+            padding-bottom: 1em;
+        }
 
-    .nav ul li a {
-        display: block;
-        padding: 0.5em 0;
+        .nav ul li {
+            display: flex;
+            flex-direction: column;
+            text-align: center;
+        }
+
+        .nav ul li a {
+            display: block;
+            padding: 0.5em 0;
+        }
     }
 
     .js .nav-toggle {
@@ -55,9 +64,5 @@
         line-height: 2em;
         text-align: center;
         cursor: pointer;
-    }
-
-    .main {
-        width: 100%;
     }
 }

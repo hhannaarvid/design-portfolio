@@ -6610,6 +6610,11 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
+@media (max-width: 900px) {
+  .main {
+    width: 100%;
+  }
+}
 @media (max-width: 767px) {
   .header {
     flex-direction: column;
@@ -6618,12 +6623,12 @@ h1, h2, h3, h4, h5, h6 {
     flex-direction: column;
     padding-bottom: 1em;
   }
-  .nav ul li {
+  .nav .nav ul li {
     display: flex;
     flex-direction: column;
     text-align: center;
   }
-  .nav ul li a {
+  .nav .nav ul li a {
     display: block;
     padding: 0.5em 0;
   }
@@ -6636,8 +6641,5 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 2em;
     text-align: center;
     cursor: pointer;
-  }
-  .main {
-    width: 100%;
   }
 }
