@@ -6647,7 +6647,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .landingpage {
   display: grid;
-  gap: 1em 1em;
+  gap: 1em 2em;
+  margin-bottom: 40px;
 }
 
 .landingpage h1 {
@@ -6656,5 +6657,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .box {
-  border: 1px solid blue;
+  border: 1px solid rgb(215, 213, 213);
+  padding: 1em;
+  text-align: center;
+}
+
+.box a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.box a:hover {
+  color: rgb(102, 102, 102);
+}
+
+.box:hover {
+  background-color: rgb(169, 205, 227);
+}
+
+.box-b, .box-c, .box-f {
+  grid-column: span 2;
+}
+
+.box-g {
+  grid-column: span 3;
 }

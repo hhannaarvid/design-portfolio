@@ -1,29 +1,33 @@
-.title, .logo {
-    padding: 3em 3em 3em 0;
+.title,
+.logo {
+  padding: 3em 3em 3em 0;
 }
 
 .logo {
-    width: 250px;
+  width: 250px;
 }
 
 @media (max-width: 767px) {
-    .title, .logo {
-        padding: 1em 1em 1em 0;
-    }
-    .title {
-        min-width: 50%;
-    }
-    .logo {
-        max-width: 30%;
-    }
+  .title,
+  .logo {
+    padding: 1em 1em 1em 0;
+  }
+
+  .title {
+    min-width: 50%;
+  }
+
+  .logo {
+    max-width: 30%;
+  }
 }
 
 .title {
-    * {
-        color: white;
-    }
+  * {
+    color: #fff;
+  }
 
-    .title p {
-        font-style: italic;
-    }
+  .title p {
+    font-style: italic;
+  }
 }

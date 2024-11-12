@@ -1,0 +1,27 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+
+    <div class="main" role="main">
+        <div class="landingpage two-columns">
+            <div class="main-content">
+                {{ content }}
+            </div>
+            <div class="link-list">
+                <a href="%base_url%?technologies/css">CSS</a>
+                <a href="%base_url%?technologies/html">HTML</a>
+                <a href="%base_url%?technologies/javascript">JAVASCRIPT</a>
+                <a href="%base_url%?technologies/php">PHP</a>
+                <a href="%base_url%?technologies/python">PYTHON</a>
+                <a href="%base_url%?technologies/git">GIT</a>
+                <a href="%base_url%?technologies/sqlite">SQLITE</a>
+
+            </div>
+        </div>
+    </div>
+    
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>
