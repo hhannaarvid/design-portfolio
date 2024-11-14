@@ -1,7 +1,7 @@
 ---
 Title: HTML
 Description: CSS - cascading style sheets.
-Template: technology
+Template: Technology
 ---
 # HTML
 

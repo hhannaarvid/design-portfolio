@@ -1,7 +1,7 @@
 ---
 Title: Javascript
 Description: CSS - cascading style sheets.
-Template: technology
+Template: Technology
 ---
 # Javascript
 

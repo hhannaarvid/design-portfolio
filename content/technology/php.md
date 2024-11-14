@@ -1,7 +1,7 @@
 ---
 Title: PHP
 Description: CSS - cascading style sheets.
-Template: technology
+Template: Technology
 ---
 # PHP
 

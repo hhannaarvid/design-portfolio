@@ -1,7 +1,7 @@
 ---
 Title: Python
 Description: CSS - cascading style sheets.
-Template: technology
+Template: Technology
 ---
 # Python
 
