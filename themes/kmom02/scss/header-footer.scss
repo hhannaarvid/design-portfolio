@@ -11,7 +11,7 @@
 
 .header {
   padding: 0 30px;
-  background-color: rgb(76, 134, 170);
+  background-color: $main-blue;
 }
 
 .header {
@@ -26,7 +26,7 @@
   }
 
   a:hover {
-    color: #111;
+    color: $font-color;
   }
 }
 
@@ -34,7 +34,7 @@
   display: flex;
   justify-content: space-between;
   padding: 30px 80px;
-  background-color: rgb(76, 134, 170);
+  background-color: $main-blue;
   color: #fff;
   
 
@@ -54,6 +54,7 @@
 
 .social a {
   text-decoration: none;
+  padding: 5px
   
 }
 i {
