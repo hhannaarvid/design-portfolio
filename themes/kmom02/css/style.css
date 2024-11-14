@@ -6462,6 +6462,7 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 20px;
 }
 
 blockquote {
@@ -6530,7 +6531,7 @@ pre code {
 .footer {
   display: flex;
   justify-content: space-between;
-  padding: 10px 50px;
+  padding: 30px 80px;
   background-color: rgb(76, 134, 170);
   color: #fff;
 }
@@ -6634,6 +6635,16 @@ h6 {
     width: 100%;
   }
 }
+@media (min-width: 767px) {
+  .box-b,
+  .box-c,
+  .box-f {
+    grid-column: span 2;
+  }
+  .box-g {
+    grid-column: span 3;
+  }
+}
 @media (max-width: 767px) {
   .header {
     flex-direction: column;
@@ -6660,6 +6671,14 @@ h6 {
     line-height: 2em;
     text-align: center;
     cursor: pointer;
+  }
+}
+@media (max-width: 767px) {
+  .link-list {
+    display: none;
+  }
+  .box {
+    grid-column: span 3;
   }
 }
 .landingpage {
@@ -6697,19 +6716,9 @@ h6 {
   background-color: rgb(169, 205, 227);
 }
 
-.box-b,
-.box-c,
-.box-f {
-  grid-column: span 2;
-}
-
-.box-g {
-  grid-column: span 3;
-}
-
 .link-list {
   margin-top: 45px;
-  margin-right: 20px;
+  margin-right: 30px;
   padding: 20px;
   border-right: 2px solid #ccc;
 }

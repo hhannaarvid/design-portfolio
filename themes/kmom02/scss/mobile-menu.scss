@@ -32,6 +32,17 @@
   }
 }
 
+@media (min-width: 767px) {
+  .box-b,
+  .box-c,
+  .box-f {
+    grid-column: span 2;
+  }
+
+  .box-g {
+    grid-column: span 3;
+  }
+}
 
 @media (max-width: 767px) {
   .header {
@@ -66,4 +77,20 @@
     text-align: center;
     cursor: pointer;
   }
+}
+
+@media (max-width: 767px) {
+  .link-list {
+    display: none;
+  }
+
+  // .landingpage h1 {
+  //   grid-column: span 1;
+  //   justify-self: center;
+  // }
+
+  .box {
+    grid-column: span 3;
+  }
+
 }
