@@ -5,10 +5,19 @@
 
     <div class="main" role="main">
         <div class="landingpage two-columns">
+            <div class="link-list">
+                {% for page in pages("technologies")|sort_by("time")|reverse if not page.hidden %}
+                <div class="post">
+                    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+                    <p class="date">{{ page.date_formatted }}</p>
+                </div>
+                
+            {% endfor %}
+        </div>
             <div class="main-content">
                 {{ content }}
             </div>
-            <div class="link-list">
+            {# <div class="link-list">
                 <a href="%base_url%?technologies/css">CSS</a>
                 <a href="%base_url%?technologies/html">HTML</a>
                 <a href="%base_url%?technologies/javascript">JAVASCRIPT</a>
@@ -17,7 +26,8 @@
                 <a href="%base_url%?technologies/git">GIT</a>
                 <a href="%base_url%?technologies/sqlite">SQLITE</a>
 
-            </div>
+            </div> #}
+            
         </div>
     </div>
     

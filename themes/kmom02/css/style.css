@@ -6665,7 +6665,11 @@ h6 {
 .landingpage {
   display: grid;
   gap: 1em 2em;
-  margin-bottom: 40px;
+  margin-bottom: 100px;
+}
+
+.two-columns {
+  display: flex;
 }
 
 .landingpage h1 {
@@ -6701,4 +6705,19 @@ h6 {
 
 .box-g {
   grid-column: span 3;
+}
+
+.link-list {
+  margin-top: 45px;
+  margin-right: 20px;
+  padding: 20px;
+  border-right: 2px solid #ccc;
+}
+
+.link-list a {
+  text-decoration: none;
+  color: #444;
+}
+.link-list a:hover {
+  color: rgb(76, 134, 170);
 }
