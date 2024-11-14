@@ -1,20 +1,20 @@
-@use '../../shared/fontawesome/scss/fontawesome';
+@import '../../shared/fontawesome/scss/fontawesome';
 $fa-font-path: '../../shared/fontawesome/webfonts';
-@use '../../shared/fontawesome/scss/brands';
-@use '../../shared/fontawesome/scss/solid';
-@use '../../shared/fontawesome/scss/regular';
+@import '../../shared/fontawesome/scss/brands';
+@import '../../shared/fontawesome/scss/solid';
+@import '../../shared/fontawesome/scss/regular';
 
-@use '../../node_modules/normalize.css/normalize';
-@use 'variables';
+@import '../../node_modules/normalize.css/normalize';
+@import 'variables';
 
-@use 'base';
-@use 'blockquotes';
-@use 'code';
-@use 'header-footer';
-@use 'title';
-@use 'typography';
-@use 'mobile-menu';
-@use 'technologies';
+@import 'base';
+@import 'blockquotes';
+@import 'code';
+@import 'header-footer';
+@import 'title';
+@import 'typography';
+@import 'mobile-menu';
+@import 'technologies';
 
 
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
