@@ -6442,7 +6442,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  background-color: #fff;
+  background-color: #000000;
 }
 
 .main {
@@ -6451,7 +6451,7 @@ body {
   margin-bottom: 100px;
   padding: 30px;
   margin: auto;
-  background-color: #fff;
+  background-color: #1e1e1e;
 }
 
 ol,
@@ -6479,7 +6479,7 @@ code {
   padding: 0.1em 0.2em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: rgb(79, 91, 99);
   font-family: monospace;
   font-size: 0.85rem;
   line-height: 1.9824;
@@ -6489,7 +6489,7 @@ pre {
   padding: 0 1em;
   border: 1px solid #ccc;
   border-radius: 0.3em;
-  background: #f5f5f5;
+  background: rgb(79, 91, 99);
 }
 
 pre code {
@@ -6515,7 +6515,8 @@ pre code {
 
 .header {
   padding: 0 30px;
-  background-color: rgb(76, 134, 170);
+  background-color: rgb(18, 18, 18);
+  border-bottom: 1px solid rgb(52, 96, 123);
 }
 
 .header img {
@@ -6527,21 +6528,22 @@ pre code {
   font-weight: bold;
 }
 .header a:hover {
-  color: #111;
+  color: #fff;
 }
 
 .footer {
   display: flex;
   justify-content: space-between;
   padding: 30px 80px;
-  background-color: rgb(76, 134, 170);
+  background-color: rgb(18, 18, 18);
   color: #fff;
+  border-top: 1px solid rgb(52, 96, 123);
 }
 .footer a {
   color: #fff;
 }
 .footer a:hover {
-  color: #262E33;
+  color: rgb(76, 134, 170);
 }
 
 .footer .social {
@@ -6556,14 +6558,6 @@ pre code {
 
 i {
   width: 2rem;
-}
-
-.nav div ul li a {
-  color: #262E33;
-}
-
-.nav div ul li a:hover {
-  color: #f5f5f5;
 }
 
 .title,
@@ -6597,7 +6591,7 @@ i {
 body {
   font-family: "roboto flex", "sans-serif";
   line-height: 1.5rem;
-  color: #444;
+  color: #dfdfdf;
 }
 
 p,
@@ -6720,7 +6714,7 @@ h6 {
 .box a {
   text-decoration: none;
   font-weight: bold;
-  color: #000;
+  color: #fff;
 }
 
 .box a:hover {
@@ -6728,7 +6722,7 @@ h6 {
 }
 
 .box:hover {
-  background-color: #D9F0FF;
+  background-color: #77B3D9;
 }
 
 .link-list {
@@ -6740,8 +6734,8 @@ h6 {
 
 .link-list a {
   text-decoration: none;
-  color: #444;
+  color: #dfdfdf;
 }
 .link-list a:hover {
-  color: rgb(76, 134, 170);
+  color: rgb(18, 18, 18);
 }

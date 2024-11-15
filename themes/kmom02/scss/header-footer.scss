@@ -60,3 +60,11 @@
 i {
   width: 2rem;
 }
+
+.nav div ul li a {
+  color: $footerhover;
+}
+
+.nav div ul li a:hover {
+  color: $precolor;
+}
