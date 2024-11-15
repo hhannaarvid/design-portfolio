@@ -1,0 +1,20 @@
+{% include 'incl/header.twig' %}
+
+<body>
+    {% include 'incl/nav.twig' %}
+
+    <div class="main" role="main">
+        {{ content }}
+        {% for page in pages("analysis")|sort_by("time")|reverse if not page.hidden %}
+                <div class="post">
+                    <h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+                    <p class="date">{{ page.date_formatted }}</p>
+                </div>
+                
+            {% endfor %}
+    </div>
+    
+    {% include 'incl/footer.twig' %}
+</body>
+
+</html>
