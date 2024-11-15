@@ -1,5 +1,5 @@
 ---
-Title: Kursmoment 4
+Title: Kursmoment 4 - färg och typsnitt
 Description: Rapport för kursmoment 4
 Template: reportpage
 ---
@@ -34,6 +34,7 @@ Jag har använt mig av:
 Resultat
 -----------------------
 
+![UL](%assets_url%/img/UL1.png)
 #### UL
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -50,7 +51,7 @@ Färger:
 Typsnitt:
 - Roboto
 - Sans-serif
-
+![SL](%assets_url%/img/SL1.png)
 #### SL
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -65,14 +66,15 @@ Färger:
 Typsnitt
 - SL Gothic
 
+![Värmlandstrafik](%assets_url%/img/Varmlandstrafik1.png)
 #### Värmlandstrafik
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #f9b000">
-<td style="height: 50px; width: 50px; background-color: #fee7b3">
 <td style="height: 50px; width: 50px; background-color: #db9b04">
 <td style="height: 50px; width: 50px; background-color: #fd8b2c">
+<td style="height: 50px; width: 50px; background-color: #fee7b3">
 <td style="height: 50px; width: 50px; background-color: #333333">
 <td style="height: 50px; width: 50px; background-color: #f5f5f5">
 </tr>
@@ -81,14 +83,16 @@ Typsnitt
 - Helvetica
 - Sans-serif
 
+
+![Västtrafik](%assets_url%/img/vasttrafik1.png)
 #### Västtrafik
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
 <td style="height: 50px; width: 50px; background-color: #0079b4">
-<td style="height: 50px; width: 50px; background-color: #f3fcff">
 <td style="height: 50px; width: 50px; background-color: #145269">
 <td style="height: 50px; width: 50px; background-color: #002f43">
+<td style="height: 50px; width: 50px; background-color: #f3fcff">
 <td style="height: 50px; width: 50px; background-color: #3c4650">
 <td style="height: 50px; width: 50px; background-color: #f6f6f6">
 </tr>
@@ -100,15 +104,22 @@ Typsnitt:
 
 Analys
 -----------------------
+##### Färgval
+Två av webbplatserna har tydligt blått som färgval medan de andra två gulorange. Jag skulle säga att alla webbplatserna har valt ett monokromatiskt färgschema där en färg (t.ex. gul eller blå) är grunden och i övrigt är det olika nyanser av den färgen som använts. Alla hemsidor har också någon mörkgrå samt väldigt ljusgrå färg som används som neutrala element men de gör ändå att det händer lite mer på sidan. Ett monokromatiskt färgschema blir ganska lugnt och harmoniskt samtidigt som det känns professionellt. Jag tycker det passar till de här hemsidorna. Man vill få ett lugnt men tryggt intryck av dem eftersom man ska kolla upp sina resor där. Jag tycker att de lyckas med det. Om något så tycker jag att de blå sidorna blir lite lugnare än de gula, men de gula får å andra sidan lite mer värme. 
 
-Diskutera och analysera de resultaten du fann.
+På de sidorna som har gul/orange som grundfärg så har de flesta bilderna på sidan också ofta några detaljer som går i samma färg. Detta gör ju såklart att både bilderna och färgen poppar lite extra. Det blir trevligt. De blå sidorna har lite liknande färg, man verkar vilja ha lite varm ton (åt det orangea hållet) och/eller med gul/orange detalj i bilden för att komplettera det blåa på hemsidan. Detta förstärker färgerna.
+
+Generellt så är man ganska selektiv med färger på de här webbplatserna, man har några få nyanser av liknande färg man håller sig till. Det gör att hemsidan blir ganska lugn, jämfört med om det hade varit fler olika, starka färger på sidan. Det kan lätt skapa ett rörigare/stökigare intryck.
+
+##### Typsnitt
+Inte så jättespännande typsnitt generellt tycker jag. Men SL har ett eget typsnitt, "SL Gothic" och verkar ha lite olika varianter av det. Att ha ett eget typsnitt gör såklart att hemsidan blir ännu mer personligt, det är smart. Man förknippar ju den typen av text med just SL. Västtrafik har "Founders grotesk" vilket inte är ett eget typsnitt men är lite ovanligare och "roligare" än arial. UL och Värmlandstrafik hade Roboto och Helvetica som huvudtypsnitt vilka är trevliga men ganska neutrala. Samtliga sidor har sans-serif att falla tillbaka på. Alla sidor har trevliga typsnitt tycker jag men jag tycker det är trevligt när en sida har ett eget typsnitt, som SL, i det här fallet. 
 
 Referenser
 -----------------------
 
-Ange de eventuella referenser du använder dig av, om några.
+Föreläsningar och material från kursen.
 
 Övrigt
 -----------------------
 
-Skriv ditt eget namn samt vilka gruppmedlemmar som deltog i att författa rapporten.
+Rapport skriven av Hanna Arvidsson (haav23).
