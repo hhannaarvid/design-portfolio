@@ -12,6 +12,7 @@
 .header {
   padding: 0 30px;
   background-color: $main-blue;
+  border-bottom: 1px solid $border2;
 }
 
 .header {
@@ -36,6 +37,7 @@
   padding: 30px 80px;
   background-color: $main-blue;
   color: #fff;
+  border-top: 1px solid $border2;
   
 
   a {
