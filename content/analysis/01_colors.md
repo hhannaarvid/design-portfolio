@@ -4,7 +4,7 @@ Description: Rapport för kursmoment 4
 Template: reportpage
 ---
 
-Kursmoment 4, analyg kring färg och typsnitt
+Kursmoment 4, analys kring färg och typsnitt
 ===============
 
 
@@ -35,7 +35,7 @@ Resultat
 -----------------------
 
 <!-- [![UL](%assets_url%/img/UL1.png)](%assets_url%/img/UL1.png) vanligt -->
-![UL](%base_url%/image/UL1.png) <!-- cimage -->
+![UL](%base_url%/image/UL1.png?w=50%) <!-- cimage -->
 
 <!-- <img  src="%base_url%/image/UL1.png?w=100" srcset="?w=100"> -->
 
