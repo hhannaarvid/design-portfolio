@@ -34,7 +34,11 @@ Jag har använt mig av:
 Resultat
 -----------------------
 
-![UL](%assets_url%/img/UL1.png)
+<!-- [![UL](%assets_url%/img/UL1.png)](%assets_url%/img/UL1.png) vanligt -->
+![UL](%base_url%/image/UL1.png) <!-- cimage -->
+
+<!-- <img  src="%base_url%/image/UL1.png?w=100" srcset="?w=100"> -->
+
 #### UL
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -51,7 +55,11 @@ Färger:
 Typsnitt:
 - Roboto
 - Sans-serif
-![SL](%assets_url%/img/SL1.png)
+<!-- ![SL](%assets_url%/img/SL1.png) -->
+
+![SL](%base_url%/image/SL1.png?w=50%) <!--vanligt -->
+
+
 #### SL
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -66,7 +74,7 @@ Färger:
 Typsnitt
 - SL Gothic
 
-![Värmlandstrafik](%assets_url%/img/Varmlandstrafik1.png)
+![Värmlandstrafik](%base_url%/image/Varmlandstrafik1.png?w=50%)
 #### Värmlandstrafik
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
@@ -84,7 +92,7 @@ Typsnitt
 - Sans-serif
 
 
-![Västtrafik](%assets_url%/img/vasttrafik1.png)
+![Västtrafik](%base_url%/image/vasttrafik1.png?w=50%)
 #### Västtrafik
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">

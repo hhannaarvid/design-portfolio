@@ -10,4 +10,4 @@ Hanna Arvidsson heter jag och är 29 år gammal. Vardag dagtid hittar man mig so
 
 Jag studerar webbprogrammering på deltid vid sidan av mitt jobb för att jag är nyfiken på att prova flera saker, och än sålänge tycker jag det är jättekul! Den här sidan kommer växa fram under kursens gång och antagligen bli både finare och allt mer innehållsrik i takt med att jag lär mig nya saker. Enjoy!
 
-![picture of me](%assets_url%/img/me.jpg){.me-img}
+![picture of me](%base_url%/image/me.jpg){.me-img}
