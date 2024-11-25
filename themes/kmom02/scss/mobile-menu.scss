@@ -42,6 +42,13 @@
   .box-g {
     grid-column: span 3;
   }
+
+  .gallery {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em 2em;
+}
 }
 
 @media (max-width: 767px) {
@@ -77,17 +84,18 @@
     text-align: center;
     cursor: pointer;
   }
+  .gallery {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1em 2em;
+}
 }
 
 @media (max-width: 767px) {
   .link-list {
     display: none;
   }
-
-  // .landingpage h1 {
-  //   grid-column: span 1;
-  //   justify-self: center;
-  // }
 
   .box {
     grid-column: span 3;
