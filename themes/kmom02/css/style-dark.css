@@ -6442,7 +6442,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  background-color: #000000;
+  background-color: #000;
 }
 
 .main {
@@ -6457,6 +6457,7 @@ body {
 ol,
 ul {
   padding-left: 1.5em;
+  margin-bottom: 10px;
 }
 
 img {
@@ -6465,6 +6466,7 @@ img {
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 blockquote {
@@ -6615,6 +6617,10 @@ h6 {
   font-family: "roboto", "verdana";
 }
 
+p {
+  margin-bottom: 10px;
+}
+
 .slide {
   overflow-y: hidden !important;
   transition: height 0.5s ease-in !important;
@@ -6653,6 +6659,12 @@ h6 {
   .box-g {
     grid-column: span 3;
   }
+  .gallery {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em 2em;
+  }
 }
 @media (max-width: 767px) {
   .header {
@@ -6680,6 +6692,12 @@ h6 {
     line-height: 2em;
     text-align: center;
     cursor: pointer;
+  }
+  .gallery {
+    display: grid;
+    max-width: 100%;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 1em 2em;
   }
 }
 @media (max-width: 767px) {
@@ -6722,7 +6740,7 @@ h6 {
 }
 
 .box:hover {
-  background-color: #77B3D9;
+  background-color: #77b3d9;
 }
 
 .link-list {

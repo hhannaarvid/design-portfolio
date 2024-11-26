@@ -9,7 +9,7 @@ Galleri
 <div class="gallery">
 <picture>
     <a href="%base_url%/image/grid/_DSC0634.jpg">
-    <img src="%base_url%/image/grid/_DSC0634.jpg?w=245&crop-to-fit&area=20,0,15,0&q=30" alt="Aston">
+    <img src="%base_url%/image/grid/_DSC0634.jpg?w=300&crop-to-fit&area=20,0,15,0&q=30" alt="Aston">
     </a>
 </picture>
 
