@@ -92,4 +92,9 @@ Samtliga bilder är tagna av mig.
     <img src="%base_url%/image/grid/DSC_4078.jpg?w=767&crop-to-fit&area=0,20,0,15" alt="Martin kastar macka i havet">
 </picture>
 </a>
+
+
+</div>
+<div class="embed-container">
+    <iframe src="https://www.youtube.com/embed/N6J_32cDk9Y?si=lQaGmBISXz98uBSJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
