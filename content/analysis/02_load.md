@@ -4,7 +4,7 @@ Description: Rapport för kursmoment 5
 Template: reportpage
 ---
 
-kmom05
+Kursmoment 5, laddningstid
 ===============
 
 Uppgiften var att välja ut 3 webbsidor och analysera deras laddningstid.
