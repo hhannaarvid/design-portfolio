@@ -1,6 +1,6 @@
 ---
 Logo: image/me2.jpg
-Tagline: My portfolio.
+Tagline: Min portfolio.
 Social:
     - title: Länk till min github repo.
       url: https://github.com/hhannaarvid

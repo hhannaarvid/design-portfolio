@@ -28,3 +28,24 @@ h6 {
 p {
   margin-bottom: 10px;
 }
+
+.main h1 {
+  border-bottom: 3px double $bordercolor;
+  padding-bottom: 7px;
+}
+
+.main .post a {
+  text-decoration: none;
+  padding: 8px;
+  color: $boxtext;
+  border: 1px solid $border;
+}
+
+.main .post a:hover {
+  color: $box-hover;
+  background-color: $box-color;
+}
+
+.main .post {
+  margin: 20px 20px 20px 0;
+}
