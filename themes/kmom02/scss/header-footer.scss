@@ -23,6 +23,7 @@
     text-decoration: none;
     color: #fff;
     font-weight: bold;
+    text-shadow: 1px 1px black;
   }
 
   a:hover {
@@ -36,10 +37,12 @@
   padding: 30px 80px;
   background-color: $main-blue;
   color: #fff;
+  text-shadow: 1px 1px black;
   
 
   a {
     color: #fff;
+    text-shadow: 1px 1px #000;
   }
 
   a:hover {
@@ -62,10 +65,16 @@ i {
 }
 
 .nav div ul li a {
-  color: $footerhover;
+  color: $precolor;
+
+  
+  // font-weight: bolder;
+  
+  text-shadow: 1px 1px $boxtext;
 }
 
 .nav div ul li a:hover {
-  color: $precolor;
-  text-shadow: 2px 2px 5px $boxtext;
+  color: $footerhover;
+  // font-weight: bolder;
+  // text-shadow: 1px 1px #fff;
 }
