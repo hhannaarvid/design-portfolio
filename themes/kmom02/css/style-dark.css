@@ -6585,9 +6585,13 @@ i {
   width: 2rem;
 }
 
+.nav div ul li a {
+  color: #fff;
+}
+
 .nav div ul li a:hover {
-  color: rgb(79, 91, 99);
-  text-shadow: 2px 2px 5px #fff;
+  border-bottom: 1px solid rgb(52, 96, 123);
+  padding-bottom: 3px;
 }
 
 .title,
@@ -6650,7 +6654,7 @@ p {
 }
 
 .main h1 {
-  border-bottom: 3px double #777777;
+  border-bottom: 3px double #777;
   padding-bottom: 7px;
 }
 
@@ -6805,4 +6809,28 @@ p {
 }
 .link-list a:hover {
   color: rgb(18, 18, 18);
+}
+
+.gallery a img:hover {
+  box-shadow: 5px 5px 8px #777;
+}
+
+.blog-div {
+  display: flex;
+  max-width: 100%;
+  gap: 10px;
+}
+
+.blog-div img {
+  width: 50%;
+}
+
+.hobby-div {
+  display: flex;
+  max-width: 100%;
+  gap: 10px;
+}
+
+.hobby-div img {
+  width: 30%;
 }

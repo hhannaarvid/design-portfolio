@@ -6442,7 +6442,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
-  background-color: #fff;
+  background-color: #f7f7f7;
 }
 
 .main {
@@ -6540,7 +6540,7 @@ pre code {
 
 .header {
   padding: 0 30px;
-  background-color: rgb(76, 134, 170);
+  background-color: #4c86aa;
 }
 
 .header img {
@@ -6550,6 +6550,7 @@ pre code {
   text-decoration: none;
   color: #fff;
   font-weight: bold;
+  text-shadow: 1px 1px #000;
 }
 .header a:hover {
   color: #111;
@@ -6559,11 +6560,13 @@ pre code {
   display: flex;
   justify-content: space-between;
   padding: 30px 80px;
-  background-color: rgb(76, 134, 170);
+  background-color: #4c86aa;
   color: #fff;
+  text-shadow: 1px 1px #000;
 }
 .footer a {
   color: #fff;
+  text-shadow: 1px 1px #000;
 }
 .footer a:hover {
   color: #262e33;
@@ -6584,12 +6587,12 @@ i {
 }
 
 .nav div ul li a {
-  color: #262e33;
+  color: #f5f5f5;
+  text-shadow: 1px 1px #000;
 }
 
 .nav div ul li a:hover {
-  color: #f5f5f5;
-  text-shadow: 2px 2px 5px #000;
+  color: #262e33;
 }
 
 .title,
@@ -6806,7 +6809,11 @@ p {
   color: #444;
 }
 .link-list a:hover {
-  color: rgb(76, 134, 170);
+  color: #4c86aa;
+}
+
+.gallery a img:hover {
+  box-shadow: 5px 5px 8px #ccc;
 }
 
 .blog-div {
