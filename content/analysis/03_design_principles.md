@@ -118,6 +118,12 @@ Jag har svårt att komma på konkreta uppdateringar, men en tanke är att förs�
 
 Hittills har jag inte gjort något på min hobby-sida vilket gör att sidan generellt känns lite tom. Så fyll på där för att göra sidan mer personlig. 
 
+Uppdateringar jag gjort:
+- använd linjer under rubriker på varje sida för att det ska "hända lite mer".
+- uppdaterat min sida för länkarna till rapporter. Använt mig av repetition och gjort den i liknande stil om min technology-sida.
+- Har lagt till skuggor när man håller muspekaren över något i menyn. I mörka temat blir det en linje under istället, det blev snyggare så tycker jag. Även skuggor för man hovrar över bilderna i galleri.
+- gjort bakrunden en svagt grå nyans för att markera innehållet på sidan. 
+
 Övrigt
 --------
 Rapporten skriven av Hanna Arvidsson, haav23.

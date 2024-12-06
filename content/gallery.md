@@ -6,7 +6,7 @@ Description: Photo gallery of the best animals
 Galleri
 ==========================
 
-Samtliga bilder är tagna av mig.
+Samtliga bilder är tagna av mig. Klicka på en för att få se den större.
 
 <div class="gallery">
 <a href="%base_url%/image/grid/_DSC0634.jpg">

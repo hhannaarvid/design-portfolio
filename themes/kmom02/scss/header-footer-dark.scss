@@ -62,3 +62,8 @@
 i {
   width: 2rem;
 }
+
+.nav div ul li a:hover {
+  border-bottom: 1px solid $border2;
+  padding-bottom: 3px;
+}
