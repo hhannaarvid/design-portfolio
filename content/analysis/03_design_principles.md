@@ -27,15 +27,15 @@ Jag har granskat och kikat runt på vardera hemsida och använt mig av olika mat
 Resultat
 -----------
 <div class="blog-div">
-<img src="%base_url%/image/kmom06/isabella1.png">
-<img src="%base_url%/image/kmom06/isabella2.png">
+<img src="%base_url%/image/kmom06/isabella1.png" alt="isabella1">
+<img src="%base_url%/image/kmom06/isabella2.png" alt="isabella2">
 </div>
 
-#### Isabella Löwengrip
-##### Om
+### Isabella Löwengrip
+#### Om
 Bloggen är en personblogg, den handlar om Isabellas liv och vardag. Bloggen har ingen särskilt inriktning mer än att den handlar om hennes vardag. Tittar man på första inläggen (idag 5 december) så handlar de bland annat om när hon och hennes familj sätter upp julgranen, vad hon gjorde på första advent och julklappstips (som sannolikt innehåller samarbetslänkar).
 
-##### Design
+#### Design
 Designen är simpel och har en stor svartvit header med bild på henne själv och hennes namn i stor, vit text. Det är en bra header för att tydliggöra vem hon är och att bloggen handlar om henne. Hon har ju ett stort namn idag så hon tjänar på att göra det stort och tydligt. 
 
 Balans - Bloggen är vit och har stora bilder i varje inlägg som verkar vara tagna med en mobil. Texten i inläggen är smalare än bilderna vilket gör att bloggen blir lite obalanserad. 
@@ -48,16 +48,16 @@ Bilder - Bilderna i inläggen verkar vara tagna med mobil. Bilderna är generell
 
 Den generellt enkla designen tycker jag i grunden passar den här typen av blogg, men några småsaker tycker jag skulle kunna ändras för att göra den lite "finare".
 
-#### Elin Kero
+### Elin Kero
 <div class="blog-div">
-<img src="%base_url%/image/kmom06/elin1.png">
-<img src="%base_url%/image/kmom06/elin2.png">
+<img src="%base_url%/image/kmom06/elin1.png" alt="elin1">
+<img src="%base_url%/image/kmom06/elin2.png" alt="elin2">
 </div>
 
-##### Om
+#### Om
 Det här är en blogg som fokuserar mycket på Elins intressen, enligt hennes header "fotografi, DIY, återbruk och livet på landet". 
 
-##### Design
+#### Design
 Man välkomnas av en sida i lugna rosa och gröna toner. Headern är en bild på henne själv med namnet i stor, vit text samt en beskrivning om vad bloggen handlar om.
 
 Färg - färgtemat om ljusa, behagliga toner i rosa och grönt återkommer genom hela sidan. 
@@ -72,16 +72,16 @@ Hierarki - olika storlekar/typsnitt på bland annat rubruker för att tydliggör
 
 Sidan har ett uttänkt och genomgående färgtema som också speglas i bilderna. Elin jobbar med foto och bildbehandling och det märks i bloggen och hemsidan.
 
-#### Underbara Clara
+### Underbara Clara
 <div class="blog-div">
-<img src="%base_url%/image/kmom06/clara1.png">
-<img src="%base_url%/image/kmom06/clara2.png">
+<img src="%base_url%/image/kmom06/clara1.png" alt="clara1">
+<img src="%base_url%/image/kmom06/clara2.png" alt="clara2">
 </div>
 
-##### Om
+#### Om
 Underbara Clara driver en blogg om hennes liv och tankar men också intressen. Det är enligt mig lite svårt att hitta en tydlig, kort beskrivning av vad hon skriver om men efter lite letande så verkar den handla om vardagsliv på landet, odling, recept och DYI. 
 
-##### Design
+#### Design
 Designen är generellt ganska glad och färgglad. Man möts av en stor illustrerad header med hennes logga stort och en illustrerad bild som man antar är en bild av henne. Färgen mintgrön är den första man lägger märke till.
 
 Färg - bloggen upplevs som färgglad. Framför allt mycket grönt och rött i lite variationer, en del kontrastfärger som gör att bloggen upplevs som lite glad och lekfull. 
@@ -113,7 +113,7 @@ Linjer - linjer används kring bild i headern för att skapa en känsla av att d
 
 Generellt tycker jag att det blir en lugn hemsida i sitt blå tema, designen är ganska simpel för att hålla det stilrent. Men det kan nästan kännas lite "tråkigt", att det inte händer så mycket. Det är dock inte så mycket innehåll på hemsidan så det bidrar såklart också till en känsla av tomhet. 
 
-##### Uppdateringar
+### Uppdateringar
 Jag har svårt att komma på konkreta uppdateringar, men en tanke är att försöka pigga upp själva innehållet lite mer, kanske lägga till en linje under rubrikerna eller bakgrund. Detaljer, helt enkelt.
 
 Hittills har jag inte gjort något på min hobby-sida vilket gör att sidan generellt känns lite tom. Så fyll på där för att göra sidan mer personlig. 

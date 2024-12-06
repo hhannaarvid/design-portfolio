@@ -39,7 +39,7 @@ Resultat
 
 <!-- <img  src="%base_url%/image/UL1.png?w=100" srcset="?w=100"> -->
 
-#### UL
+### UL
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -60,7 +60,7 @@ Typsnitt:
 ![SL](%base_url%/image/SL1.png?w=50%) <!--vanligt -->
 
 
-#### SL
+### SL
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -75,7 +75,7 @@ Typsnitt
 - SL Gothic
 
 ![Värmlandstrafik](%base_url%/image/Varmlandstrafik1.png?w=50%)
-#### Värmlandstrafik
+### Värmlandstrafik
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -93,7 +93,7 @@ Typsnitt
 
 
 ![Västtrafik](%base_url%/image/vasttrafik1.png?w=50%)
-#### Västtrafik
+### Västtrafik
 Färger:
 <table style="border-spacing: 4px; border-collapse: separate">
 <tr>
@@ -112,14 +112,14 @@ Typsnitt:
 
 Analys
 -----------------------
-##### Färgval
+### Färgval
 Två av webbplatserna har tydligt blått som färgval medan de andra två gulorange. Jag skulle säga att alla webbplatserna har valt ett monokromatiskt färgschema där en färg (t.ex. gul eller blå) är grunden och i övrigt är det olika nyanser av den färgen som använts. Alla hemsidor har också någon mörkgrå samt väldigt ljusgrå färg som används som neutrala element men de gör ändå att det händer lite mer på sidan. Ett monokromatiskt färgschema blir ganska lugnt och harmoniskt samtidigt som det känns professionellt. Jag tycker det passar till de här hemsidorna. Man vill få ett lugnt men tryggt intryck av dem eftersom man ska kolla upp sina resor där. Jag tycker att de lyckas med det. Om något så tycker jag att de blå sidorna blir lite lugnare än de gula, men de gula får å andra sidan lite mer värme. 
 
 På de sidorna som har gul/orange som grundfärg så har de flesta bilderna på sidan också ofta några detaljer som går i samma färg. Detta gör ju såklart att både bilderna och färgen poppar lite extra. Det blir trevligt. De blå sidorna har lite liknande färg, man verkar vilja ha lite varm ton (åt det orangea hållet) och/eller med gul/orange detalj i bilden för att komplettera det blåa på hemsidan. Detta förstärker färgerna.
 
 Generellt så är man ganska selektiv med färger på de här webbplatserna, man har några få nyanser av liknande färg man håller sig till. Det gör att hemsidan blir ganska lugn, jämfört med om det hade varit fler olika, starka färger på sidan. Det kan lätt skapa ett rörigare/stökigare intryck.
 
-##### Typsnitt
+### Typsnitt
 Inte så jättespännande typsnitt generellt tycker jag. Men SL har ett eget typsnitt, "SL Gothic" och verkar ha lite olika varianter av det. Att ha ett eget typsnitt gör såklart att hemsidan blir ännu mer personligt, det är smart. Man förknippar ju den typen av text med just SL. Västtrafik har "Founders grotesk" vilket inte är ett eget typsnitt men är lite ovanligare och "roligare" än arial. UL och Värmlandstrafik hade Roboto och Helvetica som huvudtypsnitt vilka är trevliga men ganska neutrala. Samtliga sidor har sans-serif att falla tillbaka på. Alla sidor har trevliga typsnitt tycker jag men jag tycker det är trevligt när en sida har ett eget typsnitt, som SL, i det här fallet. 
 
 Referenser
